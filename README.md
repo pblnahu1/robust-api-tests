@@ -46,3 +46,5 @@ npm run test
 # Para modo "watch" (se ejecutan en vivo con cambios)
 npm run test:watch
 ```
+
+# Autor: [Pablo Torrez](https://github.com/pblnahu1)
